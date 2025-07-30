@@ -6,12 +6,10 @@ body{
     font-family: "Outfit", sans-serif;
 }
 
-
-
 .recipe {
     background-color: white;
     position: relative;
-    top: 68PX;
+    top: 120PX;
     width:458PX;
     margin:68px auto ;
     padding: 25px;
